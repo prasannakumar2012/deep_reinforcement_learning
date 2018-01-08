@@ -1,7 +1,6 @@
 # Deep Reinforcement Learning Algorithms
 This repository contains implementations of various deep reinforcement learning algorithms completed as part of the Spring 2017 offering of CS 294-112, [UC Berkeley's Deep Reinforcement Learning course](http://rll.berkeley.edu/deeprlcoursesp17/).
 
-*Disclaimer: The code contained in this repository may or may not relate to coursework in future offerings of CS 294-112. The implementations here are provided for educational purposes only; if you are a student in the course, I highly suggest attempting the problems yourself.*
 
 ## Dependencies
 The dependencies of the algorithms include:
@@ -24,4 +23,4 @@ I implemented the [DQN](https://storage.googleapis.com/deepmind-media/dqn/DQNNat
 I extended the existing discrete [Policy Gradients algorithm](http://karpathy.github.io/2016/05/31/rl/) to [Pendulum](https://gym.openai.com/envs/Pendulum-v0) on OpenAI Gym, a continuous environment. In addition, I used a neural network to learn the value function.
 
 ## Final Project
-The code for this project has not been released yet, but my writeup can be found [here](http://tedxiao.me/pdf/gans_drl.pdf).
+Writeup can be found [here](http://tedxiao.me/pdf/gans_drl.pdf).
