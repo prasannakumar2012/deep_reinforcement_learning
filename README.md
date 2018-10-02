@@ -52,4 +52,5 @@ Google
 https://ai.googleblog.com/2018/08/introducing-new-framework-for-flexible.html
 https://github.com/google/dopamine
 
-
+TensorFlow and deep reinforcement learning, without a PhD (Google I/O '18)
+https://www.youtube.com/watch?v=t1A3NTttvBA&t=1056s
