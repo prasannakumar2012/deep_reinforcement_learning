@@ -33,6 +33,21 @@ MIT 6.S094: Deep Reinforcement Learning
 https://www.youtube.com/watch?v=MQ6pP65o7OM
 
 
+Stanford : Lecture 14 | Deep Reinforcement Learning
+
+https://www.youtube.com/watch?v=lvoHnicueoE
+
+
+Reinforcement Learning for Stock Prediction
+
+https://www.youtube.com/watch?v=05NqKJ0v7EE
+
+
+Q Learning for Trading
+https://www.youtube.com/watch?v=rRssY6FrTvU
+
+
+
 Google
 https://ai.googleblog.com/2018/08/introducing-new-framework-for-flexible.html
 https://github.com/google/dopamine
