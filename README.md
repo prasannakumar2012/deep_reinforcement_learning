@@ -22,8 +22,19 @@ https://www.coursera.org/specializations/machine-learning-reinforcement-finance
 
 
 Youtube videos
+
 Tutorial: Reinforcement Learning
+
 https://www.youtube.com/watch?v=JNsgnD8Fr6I
 
+
 MIT 6.S094: Deep Reinforcement Learning
+
 https://www.youtube.com/watch?v=MQ6pP65o7OM
+
+
+Google
+https://ai.googleblog.com/2018/08/introducing-new-framework-for-flexible.html
+https://github.com/google/dopamine
+
+
