@@ -1,5 +1,17 @@
 # deep_reinforcement_learning
 
+
+A general reinforcement learning algorithm that
+masters chess, shogi and Go through self-play
+
+https://deepmind.com/documents/260/alphazero_preprint.pdf
+
+
+Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.
+https://github.com/google/dopamine
+
+
+
 CS 294: Deep Reinforcement Learning, Fall 2017
 
 http://rll.berkeley.edu/deeprlcourse/
