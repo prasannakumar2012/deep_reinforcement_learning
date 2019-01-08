@@ -12,6 +12,12 @@ https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37
 https://github.com/berkeleydeeprlcourse/homework
 
 
+Fall 2018
+https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37
+
+
+
+
 
 CS234: Reinforcement Learning
 http://web.stanford.edu/class/cs234/index.html
